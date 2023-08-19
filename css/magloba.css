@@ -1,0 +1,26 @@
+img{
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.heading .head{
+    font-size: 60px;
+    text-align: center;
+}
+
+.biography{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    font-size: 25px;
+}
+
+.goBack{
+    font-size: 25px;
+}
