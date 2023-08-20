@@ -1,6 +1,6 @@
 body{
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 
 .heading{
@@ -61,4 +61,25 @@ li a{
   /* in the side pages this is responsible for styling the go back buttons */
 
 
+.navBar .top .logo{
+  background-color: red;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.topLinks{
+  margin-left: 86%;
+  margin-top: -50px;
+  padding-left: 60px;
   
+}
+
+/* the above two are resposible for the nav bar and the logo on the main page */
+
+.topLinks a{
+  color: black;
+}
+
+/* this will make the top link color black */
