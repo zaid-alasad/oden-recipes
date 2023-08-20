@@ -60,16 +60,5 @@ li a{
 
   /* in the side pages this is responsible for styling the go back buttons */
 
-  .navBar{
-    display: block;
-    height: 50px;
-    background-color: red;
-    padding: 25px;
-  }
-
-  .navBarList{
-    margin-left: 90%;
-    margin-top: -50px;
-  }
 
   
